@@ -1,0 +1,34 @@
+
+
+
+body{
+   
+    background: linear-gradient(90deg, #312a2a 0%, #000 1%, #c5acac 100%);
+}
+.nav-link {
+    color:aquamarine;
+}
+
+.navbar-nav .nav-link.active{
+     color:rgb(135, 174, 245);
+     
+}
+
+.navbar-brand image {
+    width: 30px;
+}
+.navbar-toggler {
+    border-right-color: rgb(0, 0, 0);
+    background-color: rgb(71, 50, 50);
+}
+.sidevar{
+    color: aquamarine;
+    background-color: rgba(151, 150, 150, 0.479);
+}
+
+.card{
+     background-color: rgb(161, 158, 158);
+}
+.col{
+    color: rgb(255, 255, 255)
+}
